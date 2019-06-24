@@ -1,0 +1,4 @@
+(
+  title: "hex",
+  dimensions: Some((500, 500)),
+)

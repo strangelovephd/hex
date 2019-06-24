@@ -1,0 +1,48 @@
+(
+    texture_width: 1024,
+    texture_height: 512,
+    sprites: [
+        (
+            x: ,
+            y: ,
+            width: ,
+            height: ,
+            offsets: Some((0.0, 0.0)),
+        ),
+        (
+            x: ,
+            y: ,
+            width: ,
+            height: ,
+            offsets: Some((0.0, 0.0)),
+        ),
+        (
+            x: ,
+            y: ,
+            width: ,
+            height: ,
+            offsets: Some((0.0, 0.0)),
+        ),
+        (
+            x: ,
+            y: ,
+            width: ,
+            height: ,
+            offsets: Some((0.0, 0.0)),
+        ),
+        (
+            x: ,
+            y: ,
+            width: ,
+            height: ,
+            offsets: Some((0.0, 0.0)),
+        ),
+        (
+            x: ,
+            y: ,
+            width: ,
+            height: ,
+            offsets: Some((0.0, 0.0)),
+        ),
+   ]
+)
